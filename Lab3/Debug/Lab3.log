@@ -1,0 +1,4 @@
+﻿  Lab3.cpp
+C:\C_C++Projects\CM\Lab3\Lab3\matrix.h(30,9): warning C4018: '<': signed/unsigned mismatch
+C:\C_C++Projects\CM\Lab3\Lab3\matrix.h(30,18): warning C4018: '<': signed/unsigned mismatch
+  Lab3.vcxproj -> C:\C_C++Projects\CM\Lab3\Debug\Lab3.exe
